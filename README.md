@@ -1,5 +1,5 @@
 # ryan-worrall.github.io
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Ryan]!
 
 Welcome to my GitHub portfolio! I'm a passionate **[Your Profession/Field]** with a focus on **[specialization or technologies]**. Here, you'll find my personal projects, open-source contributions, and code samples. Feel free to explore and connect with me!
 
