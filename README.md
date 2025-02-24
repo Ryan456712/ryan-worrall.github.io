@@ -91,11 +91,6 @@ I'm a **[Your Profession]** with experience in [mention key skills or industries
 
 ## 🌱 Currently Learning
 
-- Cloud Computing (AWS, GCP, Azure)
-- Deep Learning (TensorFlow, PyTorch)
-- Advanced JavaScript and TypeScript
-- Mobile App Development (React Native)
-
 ---
 
 ## 🏆 Achievements
